@@ -1,4 +1,5 @@
 #Requirements
+
 To run this ParkingSystem you need to have Java 8 installed in your system. Following are the links for installing it on Ubuntu and Macintosh.
 
 Ubuntu: https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04
@@ -6,6 +7,7 @@ Ubuntu: https://www.digitalocean.com/community/tutorials/how-to-install-java-wit
 Macintosh: https://installvirtual.com/install-openjdk-8-on-mac-using-brew-adoptopenjdk/
 
 #Running the system
+
 For the purpose of running this system you need to download the jar file with the name SquadTest.jar. Also you need to create a text file which have all the instructions for the ParkingSystem in the correct format.
 
 Now you need to run the following command in your termninal.
